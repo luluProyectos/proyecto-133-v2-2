@@ -1,0 +1,29 @@
+/** 2. Modificar el tamaño del imagen de fondo*/
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+/**5. Agregar estilo al canvas*/
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+a{
+    font-size: 25px;
+    font-weight: 600;
+    color:white;
+}
+
